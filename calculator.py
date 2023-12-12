@@ -10,3 +10,6 @@ def multi(a, b):
 
 def devide_main(a, b):
     return (a / b)
+
+def square(a):
+    return (a * a)
